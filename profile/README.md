@@ -2,13 +2,21 @@
 <img alt="Semihack" src="https://raw.githubusercontent.com/semihack/.github/main/wordmark-dark-1344x256.png#gh-dark-mode-only" width="672">
 
 
+
+
 A hands-on view of the world's most important industry: AI and semiconductors.
 
 
-We’re building an open ecosystem for AI software and hardware co-design. Making AI faster and more efficient requires understanding the full stack, from algorithms and serving systems to chip architecture and device technology. By sharing tools, experiments, and what we learn, we want to make it easier for others to understand the tradeoffs and build on the work.
+
+
+The most important problem of the century is building intelligence too cheap to meter. That takes capable software, accessible hardware designs, reliable benchmarks, and a clear understanding of the industry. Semihack brings these efforts together: post-training, quantization, serving engines, and hardware work extending toward tapeout, alongside news and technical analysis. We’re building an open ecosystem that spans the full stack, so anyone can access the work, contribute to it, and take it further.
+
+
 
 
 Our repositories are starting points for that work:
+
+
 
 
 - [Quantization](https://github.com/semihack/quantization): model quantization and evaluation.
@@ -17,8 +25,14 @@ Our repositories are starting points for that work:
 - [Lectures](https://github.com/semihack/lectures): teaching material and learning notes.
 
 
+
+
 Follow the research and engineering work:
 
 
+
+
 [Substack](https://semihack.substack.com) · [YouTube](https://www.youtube.com/@sem1hack) · [X](https://x.com/sem1hack) · [LinkedIn](https://www.linkedin.com/company/semihack/) · [Hugging Face](https://huggingface.co/semihack)
+
+
 
