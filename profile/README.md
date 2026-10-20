@@ -17,5 +17,3 @@ Our repositories are starting points for that work:
 Follow the research and engineering work:
 
 [**Substack**](https://semihack.substack.com) · [**YouTube**](https://www.youtube.com/@sem1hack) · [**X**](https://x.com/sem1hack) · [**LinkedIn**](https://www.linkedin.com/company/semihack/) · [**Hugging Face**](https://huggingface.co/semihack)
-
-Built with ❤️ from Seoul and SF by Toby from Nari Labs
